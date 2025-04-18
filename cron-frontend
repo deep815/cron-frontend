@@ -1,0 +1,8 @@
+cd path/to/cron-frontend
+
+git init
+git remote add origin https://github.com/deep815/cron-frontend.git
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git push -u origin main
